@@ -4,7 +4,7 @@
   <img align="left" alt="Rémy's LinkedIn" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/linkedin.png" />
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/workplace.gif?raw=true" width="450" height="280" />
+<img align="right" alt="GIF" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/rocket.gif?raw=true" width="450" height="280" />
 
 ### About me:
 
