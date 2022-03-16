@@ -1,12 +1,5 @@
 #### Hi, I’m @RemyRanger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-🔗 &nbsp;**Connect with me**
-
-<a href="https://www.linkedin.com/in/r%C3%A9my-ranger-94b81a134/">
-  <img align="left" alt="Rémy's LinkedIn" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/linkedin.png" />
-</a>
-
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/rocket.gif?raw=true" width="450" height="280" />
@@ -17,6 +10,8 @@
 - 🌱 I’m currently learning Golang and API CI/CD automation development
 - 💞️ I’m looking to collaborate on Great Open-source project !
 - 📫 How to reach me : by mail remy.ranger@gmail.com
+
+<br />
 
 🛠️ &nbsp;**Languages and tools**
 
@@ -44,6 +39,12 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 </p>
+
+🔗 &nbsp;**Connect with me**
+
+<a href="https://www.linkedin.com/in/r%C3%A9my-ranger-94b81a134/">
+  <img align="left" alt="Rémy's LinkedIn" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/linkedin.png" />
+</a>
 
 <!---
 RemyRanger/RemyRanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
