@@ -44,6 +44,10 @@
 
 🔗 &nbsp;**Connect with me**
 
+<a href="https://remy-ranger.raveon.fr/">
+  <img align="left" alt="Rémy's Portfolio" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/portfolio.png" />
+</a>
+
 <a href="https://www.linkedin.com/in/r%C3%A9my-ranger-94b81a134/">
   <img align="left" alt="Rémy's LinkedIn" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/linkedin.png" />
 </a>
