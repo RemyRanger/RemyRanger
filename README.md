@@ -1,7 +1,5 @@
 #### Hi, I’m @RemyRanger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-
 <img align="right" alt="GIF" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/rocket.gif?raw=true" width="450" height="280" />
 
 <br />
