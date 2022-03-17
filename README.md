@@ -12,7 +12,17 @@
 - 📫 How to reach me : by mail remy.ranger@gmail.com
 
 <br />
-<br />
+
+🔗 &nbsp;**Connect with me**
+
+<a href="https://remy-ranger.raveon.fr/">
+  <img align="left" alt="Rémy's Portfolio" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/portfolio.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/r%C3%A9my-ranger-94b81a134/">
+  <img align="left" alt="Rémy's LinkedIn" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/linkedin.png" />
+</a>
+
 <br />
 
 🛠️ &nbsp;**Languages and tools**
@@ -41,16 +51,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 </p>
-
-🔗 &nbsp;**Connect with me**
-
-<a href="https://remy-ranger.raveon.fr/">
-  <img align="left" alt="Rémy's Portfolio" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/portfolio.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/r%C3%A9my-ranger-94b81a134/">
-  <img align="left" alt="Rémy's LinkedIn" width="30px" src="https://github.com/RemyRanger/RemyRanger/blob/main/assets/linkedin.png" />
-</a>
 
 <!---
 RemyRanger/RemyRanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
